@@ -1,2 +1,34 @@
-Hostel Management
-
+* Hostel Management
+     * Hostel SRO
+     * SRO Name
+     * SRO Number
+     * SRO Office Number
+* Students Detail:
+     * Students Name
+     * students Roll Number
+     * Department
+     * Parents Name
+     * Guardian Name
+     * Native Place
+     * Address
+     * Guardian Address
+     * Students Number
+     * Parents Number
+     * Guardian Number
+* Mess Card
+     * Students Name
+     * students roll number
+     * department
+     * Veg (or) Non veg
+* Outpass
+     * Students Name
+     * Students Roll Number
+     * Department
+     * Place
+     * In time
+     * Out Time
+     * Students Number
+     * Parents Number
+     * Date 
+     * SRO Name
+     
